@@ -1,1 +1,3 @@
 20 / 1.3 why deep learning? why  now?
+
+2.1 A first look at a neural network
